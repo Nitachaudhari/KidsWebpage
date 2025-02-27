@@ -1,0 +1,20 @@
+{
+    "content": {
+      "0": {
+        "type": "story",
+        "title": "The Little Duckling",
+        "text": "Once upon a time, there was a little duckling..."
+      },
+      "1": {
+        "type": "poem",
+        "title": "Twinkle Twinkle",
+        "text": "Twinkle, twinkle, little star..."
+      },
+      "2": {
+        "type": "video",
+        "title": "Learn ABC",
+        "text": "it is video"
+      }
+    }
+  }
+  
