@@ -23,37 +23,37 @@ function Home() {
   const features = [
     {
       title: "Interactive Learning",
-      desc: "Engaging games and activities.",
+      desc: "Challenge your knowledge in a fun way.",
       bgColor: "rgba(255, 182, 193, 0.9)", 
-      path: "/games",
+      path: "/lesson",
       icon: "🎓",
       color:"rgba(227, 25, 11, 0.9)"
     },
     {
-      title: "Fun Quizzes",
-      desc: "Challenge your knowledge in a fun way.",
+      title: "Fun Quizzes and Games",
+      desc: "Engaging games and activities.",
       bgColor: "rgba(255, 215, 0, 0.9)", 
-      path: "/quiz",
+      path: "/games",
       icon: "🎮",
       color:"rgba(38, 2, 244, 0.9)"
     },
-    {
-      title: "Reward System",
-      desc: "Earn badges and rewards as you progress.",
-      bgColor: "rgba(144, 238, 144, 0.9)", 
-      path: "/rewards",
-      icon: "🏆",
-      color:"rgba(32, 138, 24, 0.9)"
-    },
-    {
-      title: "Parental Monitoring",
-      desc: "Keep track of your child's learning progress.",
-      bgColor: "rgba(135, 206, 235, 0.9)", 
-      path: "/monitoring",
-      icon: "👨‍👩‍👧‍👦",
-      color:"rgba(255, 81, 0, 0.9)"
+    // {
+    //   title: "Reward System",
+    //   desc: "Earn badges and rewards as you progress.",
+    //   bgColor: "rgba(144, 238, 144, 0.9)", 
+    //   path: "/rewards",
+    //   icon: "🏆",
+    //   color:"rgba(32, 138, 24, 0.9)"
+    // },
+    // {
+    //   title: "Parental Monitoring",
+    //   desc: "Keep track of your child's learning progress.",
+    //   bgColor: "rgba(135, 206, 235, 0.9)", 
+    //   path: "/monitoring",
+    //   icon: "👨‍👩‍👧‍👦",
+    //   color:"rgba(255, 81, 0, 0.9)"
 
-    }
+    // }
   ];
 
   return (

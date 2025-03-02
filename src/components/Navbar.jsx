@@ -12,8 +12,8 @@ function Navbar() {
     { icon: <Home strokeWidth={3} size={30} color="rgba(238, 7, 7, 1)" />, Label: "Home", path: "/" },
     { icon: <BookOpenText strokeWidth={3} size={30} color="rgba(221, 242, 12, 1)" />, Label: "Lesson", path: "/lesson" },
     { icon: <Gamepad2 strokeWidth={3} size={30} color="rgba(38, 0, 255, 1)" />, Label: "Games", path: "/games" },
-    { icon: <Trophy strokeWidth={3} size={30} color="rgb(89, 245, 250)" />, Label: "Rewards", path: "/rewards" },
-    {icon:<CircleUserRound strokeWidth={3} size={30} color="rgb(195, 86, 43)"/>, Label:"Login",path:"/authform"}
+    // { icon: <Trophy strokeWidth={3} size={30} color="rgb(89, 245, 250)" />, Label: "About", path: "/rewards" },
+    // {icon:<CircleUserRound strokeWidth={3} size={30} color="rgb(195, 86, 43)"/>, Label:"Login",path:"/authform"}
   ];
 
   return (
@@ -26,7 +26,7 @@ function Navbar() {
       borderBottom="1px solid white"
       color="white"
       fontWeight="bold"
-      p="1"
+      // p="1"
     >
       <Flex alignItems="center" ml="4">
         <Image src={logo} borderRadius="full" boxSize="40px" fit="cover" alt='logo image' />

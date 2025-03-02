@@ -36,7 +36,7 @@ const Games = () => {
   ];
 
   return (
-    <Box minH="100vh" bg="gray.50" py={8}>
+    <Box minH="100vh" bg="blue.200" py={8}>
       <Container maxW="6xl">
         <Flex justify="flex-end" mb={4}>
           <Button
