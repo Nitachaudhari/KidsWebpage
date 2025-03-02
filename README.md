@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/434071d0-bc10-44c6-94b8-e1e11f707115)# Kid Learning Webpage 🎨📚  
+# Kid Learning Webpage 🎨📚  
 
 A fun and interactive e-learning website for kids built using **React** and **Chakra UI**. The website includes engaging animations, interactive games, and an intuitive UI to make learning enjoyable.  
 
